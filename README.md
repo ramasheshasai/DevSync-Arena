@@ -31,7 +31,6 @@ A collaborative real-time code editor that allows multiple developers to code to
 git clone <repository-url>
 cd realtime-code-editor
 ```
-
 2. Install dependencies
 ```bash
 npm install
