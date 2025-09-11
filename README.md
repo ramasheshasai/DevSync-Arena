@@ -17,6 +17,7 @@ A collaborative real-time code editor that allows multiple developers to code to
 - **Backend**: Node.js, Express.js, Socket.io
 - **Styling**: CSS3
 
+
 ## Getting Started
 
 ### Prerequisites
